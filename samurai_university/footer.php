@@ -43,7 +43,7 @@
                       <li><a href="about.html">侍大学について</a></li> -->
                       <li><a href="<?php echo home_url(); ?>/category/news">ニュース</a></li>
                       <li><a href="<?php echo home_url(); ?>/category/event">イベント</a></li>
-                      <li><a class="nav-link" href="<?php echo home_url(); ?>/category/graduates">卒業生の声</li>
+                      <li><a href="<?php echo home_url(); ?>/category/graduates">卒業生の声</a></li>
                       <li><a href="<?php echo home_url(); ?>/course">コース</a></li>
                       <li><a href="<?php echo home_url(); ?>/about">侍大学について</a></li>
                     </ul>
